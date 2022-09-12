@@ -91,3 +91,8 @@ position: relative;
     outline: none;
     border-radius: 30px;
 }
+.box2 form input:last-child{
+    position: absolute;
+    display: inline-flexbox;
+
+}
