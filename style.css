@@ -107,6 +107,35 @@ right: 6px;
 img{
     border-radius: 115px;
 }
-img{
-    size: 40%;
+.about{
+    width: 100%;
+    padding: 100px 0px;
+    background-color: cadetblue;
+
+}
+.about img{
+    height: auto;
+    width: 450px;
+
+}
+.about text {
+width: 550px;
+}
+.main{
+    width: 1150px;
+    max-width: 100%;
+    margin: 60px;
+    display: flex;
+    align-items: center
+    justify-content: space-around;
+}
+.about-text h2{
+    color: white;
+    font-size: 75px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+
+}
+.about-text h5{
+
 }
